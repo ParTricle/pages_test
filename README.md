@@ -2,4 +2,4 @@
 ## Проект
 Этот репозиторий является каркасом для будущего веб-приложения.
 ## Ссылки
-- (https://ParTricle.github.io/pages_test)
+- (https://partricle.github.io/pages_test/)
